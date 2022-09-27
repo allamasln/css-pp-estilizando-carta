@@ -1,0 +1,41 @@
+body{
+    font-style: normal;
+}
+#Eleanor{
+    text-align: right;
+    border-bottom: 2px;
+}
+h1{
+    color:blue;
+}
+body {
+    background-color: wheat;
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: overline;
+}
+address{
+    font-style: italic;
+    ;
+}
+li{
+    color:firebrick
+}
+dl {
+    color: orchid;
+}
+span{
+    display:inline-block;
+    height: 120px;
+}
+#Separation{
+    line-height: 50px;
+}
+p{
+    word-spacing: 10px;
+}
+#Break{
+    word-wrap: break-word;
+}
+/*Guapo el que lo lea*/
