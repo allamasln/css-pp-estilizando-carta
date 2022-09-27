@@ -1,0 +1,33 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    margin: 25px;
+}
+
+.remitente{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    
+}
+
+dt{
+    font-weight: 700;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+h2{
+    color: brown;
+}
+
+.date-list{
+    list-style: none;
+}
