@@ -1,0 +1,40 @@
+body {
+    background-color: rgba(0, 0, 0, 0.827);font-family: 'Times New Roman', Times, serif ;
+}
+
+header {
+    background-color: rgb(102, 81, 81);text-align: right;color: white;font-style: italic;border-radius: 3%;padding-right: 10px;
+}
+main {
+    background-color: rgb(71, 44, 44);color: rgba(240, 252, 255, 0.834);padding: 10%;
+}
+h1 {
+    color: grey;font-weight: 90;
+}
+h2 {
+    color: rgb(178, 101, 8);font-size: larger;word-spacing: 5px
+}
+p {color: rgb(151, 174, 211);word-wrap: break-word
+
+}
+
+ol {color: rgba(228, 217, 23, 0.721);
+
+}
+
+ul {color: rgb(157, 175, 57);
+
+}
+
+a {color: aqua ;
+}
+
+dd {color: lightblue;
+
+}
+/* no modificar */
+dt {
+    line-height:190%
+}
+footer {background-color: rgb(102, 81, 81);color :white;font-weight: bold;padding: 20px;
+}
