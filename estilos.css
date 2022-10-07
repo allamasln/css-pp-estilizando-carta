@@ -1,0 +1,34 @@
+body{
+    font: normal 200 condensed large "Arial, Helvetica, sans-serif"
+
+ 
+}
+
+header{
+    font-size:10px ;
+}
+
+
+.entrada{
+
+    
+    font-size: 10px;
+}
+
+#saludo{
+    font-style: italic;
+}
+
+
+
+li{
+    font-style: italic;
+}
+
+.exotica{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.matematicas{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
