@@ -1,0 +1,44 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(214, 144, 40, 0.335);
+}
+header {
+    font-size: 15px;
+  
+}
+address {
+    font-size: 15px;
+   
+}
+
+h2 {
+    font-size:  22px;
+    text-decoration:underline 6px;
+
+}
+
+#Greet {
+font-size: 23px;
+color: green;
+
+}
+
+h3 {
+    font-size: 28px;
+    text-decoration: overline;
+    text-decoration:underline overline 12px;
+}
+
+dt {
+    font-size: 24px ;
+    font-family: fantasy;
+}
+
+footer {
+    color: darkorchid;
+}
+
+img {
+    width: auto;
+    height: auto;
+}
