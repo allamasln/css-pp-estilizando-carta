@@ -1,0 +1,52 @@
+body{
+    background-color: white;
+    margin-left: 30px;
+    margin-bottom: 50px;
+  
+    
+   
+}
+
+#encabezado-arriba{
+    font-style: italic;
+    line-height: 25px;
+    color: black;
+    margin-left: 1000px;
+   
+}
+
+#fecha-arriba{
+
+    color: black;
+}
+
+#datos-perosnales{
+    font-style: italic;
+    line-height: 20px;  
+}
+
+#titulo-re{
+    color: black
+}
+
+#bajo-titulo{
+    line-height: 25px;
+
+}
+
+#lista-ordenada{
+    line-height: 25px;
+}
+
+#firmado{
+    margin-top: 100px;
+}
+
+#universidad{
+    font-style: italic;
+}
+
+
+
+
+
